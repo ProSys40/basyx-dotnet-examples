@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.29418.71
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloAssetAdministrationShell", "HelloAssetAdministrationShell\HelloAssetAdministrationShell.csproj", "{0A4DEFF8-8A95-49F8-B8B9-244B058EF406}"
 EndProject
@@ -15,6 +15,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 	ProjectSection(SolutionItems) = preProject
 		LICENSE = LICENSE
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArangoAssetAdministrationShellExample", "ArangoAssetAdministrationShellExample\ArangoAssetAdministrationShellExample.csproj", "{433EBB8D-18A4-47D6-A98D-724B02BD65D2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -38,6 +40,10 @@ Global
 		{41026E20-E7A5-46BE-B51E-2E11DA085921}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{41026E20-E7A5-46BE-B51E-2E11DA085921}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{41026E20-E7A5-46BE-B51E-2E11DA085921}.Release|Any CPU.Build.0 = Release|Any CPU
+		{433EBB8D-18A4-47D6-A98D-724B02BD65D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{433EBB8D-18A4-47D6-A98D-724B02BD65D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{433EBB8D-18A4-47D6-A98D-724B02BD65D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{433EBB8D-18A4-47D6-A98D-724B02BD65D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
